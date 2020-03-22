@@ -27,6 +27,8 @@ Originally, I followed the methodology and sequencing of assigning colors from t
 
 While this looked neat, the featured colors of the palette I selected are really the Cornflower Blue and "Brown," which is more commonly referred to as a "maroon." In the original version, only the names of parks featured the "Brown" color prominently. I made some tweaks to feature "Brown" as the street color so the map would highlight "Cornflower Blue" and "Brown" foremost.
 
+![PhillyMapFinal](https://github.com/iansnyder5/isnyder-portfolio/blob/master/PhillyMapFinal.png)
+
 
 ### Part II
 
