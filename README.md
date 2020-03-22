@@ -19,15 +19,15 @@ Final product: http://iansnyder5.github.io/isnyder-portfolio/google_map_style_ph
 
 For this lab, I wanted to color-coat Philadelphia in colors that showcase the city's pride. I originally thought to use a public image of the City of Philadelphia [flag](https://www.google.com/url?sa=i&url=https%3A%2F%2Fcommons.wikimedia.org%2Fwiki%2FFile%3AFlag_of_Philadelphia%2C_Pennsylvania.svg&psig=AOvVaw1G4uqklXZ5TZ5j3cxXksAC&ust=1584990411875000&source=images&cd=vfe&ved=0CAIQjRxqFwoTCJCT58XjrugCFQAAAAAdAAAAABAD), but the color palette picked up on too many of the detail colors from the crest in the middle. Because I'm an avid Phillies fan, I then thought to use a public image of the basic Phillies [logo](https://www.google.com/url?sa=i&url=https%3A%2F%2Fen.wikipedia.org%2Fwiki%2FFile%3APhiladelphia_Phillies_Insignia.svg&psig=AOvVaw292-JEWARJusNaWBMZbpHF&ust=1584990497153000&source=images&cd=vfe&ved=0CAIQjRxqFwoTCPC8p-7jrugCFQAAAAAdAAAAABAD), instead. However, the color scale centered on white, which I thought would not make for an interesting map base. My third attempt involved a public image of an [older Phillies logo](https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.flickr.com%2Fphotos%2Fmelling2293%2F6171367700&psig=AOvVaw292-JEWARJusNaWBMZbpHF&ust=1584990497153000&source=images&cd=vfe&ved=0CAIQjRxqFwoTCPC8p-7jrugCFQAAAAAdAAAAABAH), which used universally-beloved "throwback" colors. The white background of this image produced the same problem I had with the first Phillies logo. Thankfully, there was another public version of the image with a black background, which allowed me to center on "Cornflower Blue" and was my eventual inspiration for the color palette (below):
 
-![PhilliesLogoandPalette](https://github.com/iansnyder5/isnyder-portfolio/blob/master/PhilliesGISLogoPalette.png)
+![PhilliesLogoandPalette](PhilliesGISLogoPalette.png)
 
 Originally, I followed the methodology and sequencing of assigning colors from the palette verbatim from the example provided. This meant that, based on my color palette, I assigned the streets the "Light Steel Blue" color.
 
-![PhillyMapTake1](https://github.com/iansnyder5/isnyder-portfolio/blob/master/PhillyMapTake1.png)
+![PhillyMapTake1](PhillyMapTake1.png)
 
 While this looked neat, the featured colors of the palette I selected are really the Cornflower Blue and "Brown," which is more commonly referred to as a "maroon." In the original version, only the names of parks featured the "Brown" color prominently. I made some tweaks to feature "Brown" as the street color so the map would highlight "Cornflower Blue" and "Brown" foremost.
 
-![PhillyMapFinal](https://github.com/iansnyder5/isnyder-portfolio/blob/master/PhillyMapFinal.png)
+![PhillyMapFinal](PhillyMapFinal.png)
 
 
 ### Part II
