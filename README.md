@@ -1,5 +1,5 @@
 # isnyder-portfolio
-This is my portfolio for 90-753: Advanced GIS, at Carnegie Mellon University's Heinz College. My portfolio lives at http://iansnyder5.github.io/isnyder-portfolio/
+This is my portfolio for 90-753: Advanced GIS, at Carnegie Mellon University's Heinz College. My portfolio lives at https://iansnyder5.github.io/isnyder-portfolio
 
 # About me
 
@@ -19,7 +19,7 @@ I believe that GIS/mapping is one of the most effective tools we, as public poli
 
 ## Lab: Create a custom Google Maps style from an image
 
-Final product: http://iansnyder5.github.io/isnyder-portfolio/google_map_style_philly.html
+Final product: https://iansnyder5.github.io/isnyder-portfolio/google_map_style_philly.html
 
 ### Part I
 
