@@ -43,4 +43,4 @@ I've never created an API before, so Part II was daunting to me, at the start. T
 
 Continuing on the theme of Philly pride, I created 3 layers of "Philly Must-Haves" point features using Google MyMaps: "Wawa," "Cheesesteak," and "Soft Pretzel." Though all three groups are featured on the final lab (link above), they exported as a single entity in the KML file and all appear as white markers in the final map. To see the three layers individually through Google MyMaps, click [here](https://drive.google.com/open?id=1eu_47bS8iQjbzsqGd8PTZiv_Nio2Urca&usp=sharing).
 
-_Takeaway: I didn't know *anything* we just did existed before this Lab, and I'm excited to have an easy-to-use skill to add to my toolbox after the first week!_
+__Takeaway: I didn't know *anything* we just did existed before this Lab, and I'm excited to have an easy-to-use skill to add to my toolbox after the first week!__
