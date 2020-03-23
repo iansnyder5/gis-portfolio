@@ -1,4 +1,4 @@
-# isnyder-portfolio
+# gis-portfolio
 This is my portfolio for 90-753: Advanced GIS, at Carnegie Mellon University's Heinz College. My portfolio lives at https://iansnyder5.github.io/gis-portfolio
 
 # About me
