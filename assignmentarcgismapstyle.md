@@ -14,7 +14,7 @@ For clarity, I've isolated the color palette that Adobe pulled from this image b
 
 ## ArcGIS map style vs. Google Maps style
 
-[Link to Assignment: Create a custom Google Maps style from an image](/https://iansnyder5.github.io/gis-portfolio/google_map_style_philly.html)
+[Link to Assignment: Create a custom Google Maps style from an image](https://iansnyder5.github.io/gis-portfolio/google_map_style_philly.html)
 
 ## Check Quality Using Map Scales
 
