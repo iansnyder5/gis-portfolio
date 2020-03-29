@@ -12,6 +12,12 @@ For clarity, I've isolated the color palette that Adobe pulled from this image b
 
 ![House Color Palette](assignment2palette.png)
 
+I started with the "Colored Pencil" basemap style, as I wanted a map that found a balance between fun and usability. Like with the Google Maps style assignment, incorporating the colors into the map features in the pre-set order (left-to-right for Land, Water, Roads, Boundaries, Buildings, respectively) did not create an intuitive map. Land, water, and road, which are the most relevant features, were all shades of blue, which prevented a clear distinction between them. In addition, the five-step color ramp did not account for nature, the sixth necessary feature. From an intuition standpoint, it made sense to make Land one of the shades of green from the palette and to ensure that Roads would not be confused for rivers or other waterways if left as blue. Therefore, I switched Land to the darker shade of green, Nature to the lighter shade of green, and Roads to the original pre-set color for Nature. This final configuration struck the best balance between using the image's colors and usability.
+
+![Final Map Example](assignment2examplemap.png)
+
+
+
 ## ArcGIS map style vs. Google Maps style
 
 [Link to Assignment: Create a custom Google Maps style from an image](https://iansnyder5.github.io/gis-portfolio/google_map_style_philly.html)
