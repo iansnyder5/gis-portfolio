@@ -26,3 +26,5 @@ Though I appreciate the added data capabilites of ArcGIS and being able to add b
 ## Check Quality Using Map Scales
 
 ![Map with Various Scales](assignment2mapstyle.png)
+
+As I stated, the first glaring quality check I did showed that Roads, which started as a shade of blue, could be confused for rivers and other waterways. Even at a large scale, it was obvious that I should fix this to make it more intuitive. Once I finalized the color-feature match that made the most sense, I adjusted the map at 4 scales: "2," "5," "9," and "14" (image above). The maps at both scales 2 and 5 showed that the Land/Boundary contrast works. Zooming in to scale 6 displays the better Road color and the clarity of contrast between Roads and Land. Scale 14 shows the full contrast of every major feature, including the subtle, but useful, contrast in color *and* texture between Land and Nature.
