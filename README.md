@@ -14,4 +14,6 @@ I believe that GIS/mapping is one of the most effective tools we, as public poli
 
 ## [Lab: Github](/labgithub.md)
 
-## [Lab: Create a custom Google Maps style from an image](/assignmentgooglemapsstyle.md)
+## [Assignment: Create a custom Google Maps style from an image](/assignmentgooglemapsstyle.md)
+
+## [Assignment: Create a custom ArcGIS map style](/assignmentarcgismapstyle.md)
