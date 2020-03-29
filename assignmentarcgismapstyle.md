@@ -1,6 +1,6 @@
 # Assignment: Create a custom ArcGIS map style
 
-**Final Product: https://carnegiemellon.maps.arcgis.com/home/item.html?id=f92eddd3e7d645eb8afe0c220751a0dc**
+**Final Product: https://arcg.is/TSuXe**
 
 ## Source and Inspiration
 
