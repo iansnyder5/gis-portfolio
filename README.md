@@ -2,7 +2,7 @@
 This is my portfolio for 90-753: Advanced GIS, at Carnegie Mellon University's Heinz College. My portfolio lives at https://iansnyder5.github.io/gis-portfolio
 
 # About me
-![Me](racialequitytraining.jpeg)
+![Me](racialequitytraining.jpeg = 500X300)
 
 Pronouns: He/Him/His. I'm a second-year MSPPM-DC student at Carnegie Mellon University's Heinz College of Information Systems and Public Policy. I'm originally from the Philadelphia area (Montgomery County, for those with any familiarity). I spent four wonderful years at the University of Pittsburgh, where I graduated with a Bachelor of Arts in Political Science and a Neuroscience Minor (thanks, past life as a pediatric dentist). I came straight to Heinz from Pitt with the hope of honing a quantitative skillset to accompany my qualitative skills from undergrad and using these skills to promote racial equity and anti-racist local government policy. I've worked in Pittsburgh City Council (twice, two different offices), the Borough of Dormont, PA, and as a Mayoral Fellow in the City of Chicago. I'm currently a Heinz Policy Fellow at the National League of Cities' Race, Equity, And Leadership (REAL) initiative, and I plan to move back to Philadelphia and work in City government post-graduation.
 
