@@ -1,1 +1,9 @@
+# Assignment: Building an online map from scratch using Mapbox
 
+**Final Product: https://api.mapbox.com/styles/v1/iansnyder5/ck8n82mu50l5q1iqvyxu8gqyg.html?fresh=true&title=view&access_token=pk.eyJ1IjoiaWFuc255ZGVyNSIsImEiOiJjazd1dm4zbjAxNTRtM2txcmZ5d3hpOG45In0.qUl_wZo6JbYMLlpq59MIkA**
+
+## Thoughts on the Process
+
+Because Mapbox is new to me, I found parts of the process somewhat confusing. Obtaining the data from the CDC website was difficult, and I would not have been able to find the necessary spreadsheet had someone not raised the issue and asked for our professor to provide the data. Because the FIPS codes to join the county-level data were not the same number of digits, I had to learn the .zfill() function, which added some troubleshooting time. I had also changed my maps to the 1984 Web Mercator projection before creating a shapefile for the state-level opioids data, which caused the tool to create shapefiles with attributes but no data.
+
+I originally exported the data as shapefiles only, which meant that I had to go back later to create GeoJSON files for both the opioid and prescription drug data. My first attempt at using the tippecanoe package in Terminal created two files that were larger than the original GeoJSON files, which was blatantly wrong. I found that I missed specific code from the assignment, and my second attempt worked. I found the actual Mapbox part of the assignment rather straightforward, except for the fact that I seem to have had slightly different options available to me for some of the places label classes. I appreciate that Mapbox is free and available for those who do not have the Esri suite available. However, we still prepped our maps using ArcGIS Pro, which seems to have defeated the purpose of the assignment. I would have preferred to learn how to create GeoJSON files for Mapbox without paid Esri software.
