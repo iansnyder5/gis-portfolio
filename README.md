@@ -19,3 +19,7 @@ I believe that GIS/mapping is one of the most effective tools we, as public poli
 ## [Assignment: Create a custom ArcGIS map style](/assignmentarcgismapstyle.md)
 
 ## [Assignment: Building an online map from scratch using Mapbox](/assignmentmapbox.md)
+
+## [Assignment: Using ArcGIS Insights to investigate the DEA's pain pill database](/assignmentarcgisinsights.md)
+
+## [Assignment: Creating your own geographic footprint](/assignmentgeographicfootprint.md)
