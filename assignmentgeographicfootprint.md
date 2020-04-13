@@ -33,3 +33,7 @@ This is most obvious without the time feature. I attempted to create a kernel de
 ### What you were likely doing at the time
 
 If I had a better knowledge of France, I would probably be able to deduce what the subject was doing in each region and on each day. I assume that most trips within France were for day-to-day errands and likely office work, and I would think that most trips to the outerlying places involved business or pleasure.
+
+## Takeaways
+
+I found it rather easy to analyze the data as described. The points came with a date/time feature, and I did not have to perform any spatial analysis other than activating and analyzing this feature. From a policy standpoint, this is mildly terrifying. I'm a second-year graduate student, and I could use these (and more of similar) data to target advertising, to shape policy programs, and to survey residents. Consumers still lack a lot of information about how their data are used, and Congress still hasn't regulated many of the things for which industry uses our data. This really solidified, for me, how much information we can divulge about ourselves if we aren't intentional and careful.
