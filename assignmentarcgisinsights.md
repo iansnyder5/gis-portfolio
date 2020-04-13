@@ -2,7 +2,7 @@
 
 ![Philadelphia Pain Pills - Buyers & Sellers](arcgisinsightsfinal.png)
 
-(The cluster of blue dots represent buyers in Philadelphia County, Pennsylvania)
+(The cluster of blue dots represent prescription painkiller buyers, namely pharmacies, in Philadelphia County, Pennsylvania)
 
 ## What did you learn from working with these data and performing this analysis?
 
