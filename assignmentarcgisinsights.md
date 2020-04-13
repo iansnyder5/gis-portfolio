@@ -2,6 +2,8 @@
 
 ![Philadelphia Pain Pills - Buyers & Sellers](arcgisinsightsfinal.png)
 
+(The cluster of blue dots represent buyers in Philadelphia County, Pennsylvania)
+
 ## What did you learn from working with these data and performing this analysis?
 
 From working with these data and performing this analysis, I learned just how pervasive the pharmaceutical industry's reach and impact on the opioid crisis are. I think the project reinforced how important good journalism is, too. These data, and the DEA's database, would not be available for us to use had it not been for the persistence of The Washington Post. I had no idea how many drug distributors ship to a given county - and multiple pharmacies in that county, no less. Philadelphia was supplied 518,013,833 pain pills from 2006 to 2014, which is staggering. That's 38 per resident *per year*. I had no idea the prescription painkiller problem was *this* bad. With these data and the power to illustrate the severity of the opioid problem in any given county, I feel empowered to bring this tool (mapping, at the very least) to wherever I work post-graduation.
