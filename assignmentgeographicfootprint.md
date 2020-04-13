@@ -12,7 +12,7 @@ Because the data contain date/time properties, I adjusted the "Time" property in
 
 ### When you visited a place
 
- The subject appeared to take most trips for a day. One trip appeared to be overnight, as the curve which the points formed was consistent on consecutive days.
+The subject appeared to take most trips for a day. One trip appeared to be overnight, as the curve which the points formed was consistent on consecutive days. The points related to that trip would end at a spot and then overlap the points from earlier that day on the return trip. I could discover the rough destination from the point at which the subject appeared to "turn around."
 
 ### How long you stayed
 
