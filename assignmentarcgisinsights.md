@@ -2,7 +2,7 @@
 
 ![Philadelphia Pain Pills - Buyers & Sellers](arcgisinsightsfinal.png)
 
-(The cluster of blue dots represent prescription painkiller buyers, namely pharmacies, in Philadelphia County, Pennsylvania)
+This map illustrates the locations and quantities of prescription painkillers (opioids) shipped from various distributors to buyers (pharmacies, blue dot cluster) in Philadelphia County, Pennsylvania. Data are retrieved from the DEA's prescription painkiller database via [The Washington Post](https://www.washingtonpost.com/graphics/2019/investigations/dea-pain-pill-database/).
 
 ## What did you learn from working with these data and performing this analysis?
 
