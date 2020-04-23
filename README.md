@@ -2,7 +2,6 @@
 This is my portfolio for 90-753: Advanced GIS, at Carnegie Mellon University's Heinz College. My portfolio lives at https://iansnyder5.github.io/gis-portfolio
 
 # About me
-![Me](racialequitytraining.jpeg)
 
 <img src="racialequitytraining.jpeg" alt="Me" width="300" height="400">
 
