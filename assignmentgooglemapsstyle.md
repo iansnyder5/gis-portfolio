@@ -1,6 +1,6 @@
 # Assignment: Create a custom Google Maps style from an image
 
-**Final product: https://iansnyder5.github.io/gis-portfolio/google_map_style_philly.html**
+**Final product: https://lilladelphia.github.io/gis-portfolio/google_map_style_philly.html**
 
 ## Part I
 
