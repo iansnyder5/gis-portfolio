@@ -3,8 +3,6 @@ This is my portfolio for 90-753: Advanced GIS at Carnegie Mellon University's He
 
 # About me
 
-<img src="racialequitytraining.jpeg" alt="Me" width="300" height="400">
-
 Pronouns: she/they. I'm a MSPPM-DC graduate from Carnegie Mellon University's Heinz College of Information Systems and Public Policy. I'm originally from the Philadelphia area (Montgomery County, for those with any familiarity). I spent four wonderful years at the University of Pittsburgh, where I graduated with a Bachelor of Arts in Political Science and a Neuroscience Minor (a past life as a pediatric dentist). I came straight to Heinz from Pitt with the hope of honing a quantitative skillset to accompany my qualitative skills from undergrad and using these skills to promote racial equity and anti-racist local government policy. I've worked in Pittsburgh City Council (twice, two different offices), the Borough of Dormont, PA, and as a Mayoral Fellow in the City of Chicago. I've been a Heinz Policy Fellow at the National League of Cities' Race, Equity, And Leadership (REAL) initiative and stayed with REAL as a Senior Program Specialist following my graduation. I now work as a Policy Analyst for the Philadelphia Department of Public Health, Division of COVID-19 Containment.
 
 # What I hope to learn
